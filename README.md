@@ -62,32 +62,7 @@ I'm a **third-year B.Tech student** in **Artificial Intelligence & Data Science*
 
 ---
 
-## 🚀 Featured Projects
 
-### 📦 [Vendor Sales Analysis Dashboard](https://github.com/Gauravkale05/Vendor-Sales-Analysis)
-> Python · Pandas · Power BI · Excel
-
-Consolidated purchase, sales, and freight data for **100+ vendors** to compute KPIs like profit margin, stock turnover, and sales-to-purchase ratio. Built an interactive Power BI dashboard that **cut manual reporting time by 60%**.
-
----
-
-### 🍕 Pizza Sales Analysis Dashboard
-> Power BI · SQL · DAX · Excel
-
-Analyzed **49,600+ pizza orders** worth **$817.9K** in total revenue. Surfaced KPIs including average order value ($38.3) and avg. pizzas per order (2.3). Segmented performance by category and size for actionable menu insights.
-
----
-
-## 📜 Certifications
-
-| Certification | Issuer | Year |
-|---|---|---|
-| GenAI Powered Data Analytics Job Simulation | Tata / Forage | 2024 |
-| Data Analytics Job Simulation | Deloitte Australia / Forage | 2024 |
-| Introduction to Data Analysis using Microsoft Excel | Coursera | — |
-| SQL – Basic & Intermediate | HackerRank | 2024 |
-
----
 
 ## 📊 GitHub Stats
 
@@ -98,16 +73,6 @@ Analyzed **49,600+ pizza orders** worth **$817.9K** in total revenue. Surfaced K
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkale05&layout=compact&theme=default&hide_border=true&title_color=0F6E56&text_color=333333&bg_color=ffffff)
 
 </div>
-
----
-
-## 🎓 Education
-
-**B.Tech — Artificial Intelligence & Data Science**
-K.K. Wagh Institute of Engineering Education & Research, Nashik *(Sept 2024 – Jun 2027)*
-
-**Diploma — Information Technology**
-Government Polytechnic, Pune *(Completed Jun 2024)*
 
 ---
 
