@@ -92,12 +92,6 @@ I'm a **third-year B.Tech student** in **Artificial Intelligence & Data Science*
 
 </div>
 
-> **One-time setup needed:** the snake animation above only appears once you add a small GitHub Action to your profile repo (`Gauravkale05/Gauravkale05`). It regenerates the SVG from your live contribution graph on a schedule. Steps:
-> 1. In that repo, go to **Actions → New workflow → set up a workflow yourself**.
-> 2. Paste in the workflow from `Platane/snk` (search "Platane snk github action" — it's the standard one everyone uses).
-> 3. Commit it. It will create an `output` branch containing `github-contribution-grid-snake.svg`, which is exactly what the `<img>` tag above points to.
-> 4. Until that Action runs once, the image link above will show as broken — that's expected.
-
 ---
 
 <div align="center">
