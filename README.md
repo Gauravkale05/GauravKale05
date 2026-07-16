@@ -13,13 +13,16 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gauravkale0019@gmail.com)
 [![Location](https://img.shields.io/badge/Nashik,%20India-FF6B35?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Nashik,Maharashtra)
 
+<!-- Live profile view counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Gauravkale05&color=1D9E75&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
 ## 👋 About Me
 
-I'm a **third-year B.Tech student** in **Artificial Intelligence & Data Science** at K.K. Wagh Institute of Engineering, Nashik. I turn raw, messy data into clear business insights — through dashboards, analysis pipelines, and machine learning models.
+I'm a **Final-year B.Tech student** in **Artificial Intelligence & Data Science** at K.K. Wagh Institute of Engineering, Nashik. I turn raw, messy data into clear business insights — through dashboards, analysis pipelines, and machine learning models.
 
 - 🔭 Currently working on data analytics and BI projects
 - 🌱 Exploring GPU-accelerated AI and advanced ML workflows
@@ -70,7 +73,28 @@ I'm a **third-year B.Tech student** in **Artificial Intelligence & Data Science*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gauravkale05&layout=compact&theme=default&hide_border=true&title_color=0F6E56&text_color=333333&bg_color=ffffff)
 
+<!-- Total contributions, current streak, longest streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gauravkale05&theme=default&hide_border=true&background=FFFFFF&ring=1D9E75&fire=1D9E75&currStreakLabel=0F6E56)
+
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/Gauravkale05/Gauravkale05/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+<!--END_SECTION:waka-->
+
+</div>
+
+> **One-time setup needed:** the snake animation above only appears once you add a small GitHub Action to your profile repo (`Gauravkale05/Gauravkale05`). It regenerates the SVG from your live contribution graph on a schedule. Steps:
+> 1. In that repo, go to **Actions → New workflow → set up a workflow yourself**.
+> 2. Paste in the workflow from `Platane/snk` (search "Platane snk github action" — it's the standard one everyone uses).
+> 3. Commit it. It will create an `output` branch containing `github-contribution-grid-snake.svg`, which is exactly what the `<img>` tag above points to.
+> 4. Until that Action runs once, the image link above will show as broken — that's expected.
 
 ---
 
