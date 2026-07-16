@@ -1,0 +1,25 @@
+<svg width="100%" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F6E56"/>
+      <stop offset="100%" stop-color="#1D9E75"/>
+    </linearGradient>
+    <style>
+      @keyframes waveMove2 {
+        0%   { transform: translateX(0); }
+        100% { transform: translateX(-300px); }
+      }
+      .fwave1 { animation: waveMove2 10s linear infinite; }
+      .fwave2 { animation: waveMove2 14s linear infinite reverse; opacity: 0.35; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="120" fill="url(#bgGrad2)"/>
+
+  <g class="fwave1">
+    <path d="M0,60 C150,20 300,90 450,60 C600,20 750,90 900,60 C1050,20 1200,90 1350,60 C1500,20 1500,60 1500,60 L1500,120 L0,120 Z" fill="#ffffff" opacity="0.14"/>
+  </g>
+  <g class="fwave2">
+    <path d="M0,80 C150,40 300,100 450,80 C600,40 750,100 900,80 C1050,40 1200,100 1350,80 C1500,40 1500,80 1500,80 L1500,120 L0,120 Z" fill="#ffffff" opacity="0.2"/>
+  </g>
+</svg>

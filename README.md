@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0F6E56&height=160&section=header&text=Gaurav%20Kale&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Data%20Science%20%7C%20Data%20Analyst&descSize=18&descAlignY=62&descColor=d0f5ea" alt="header"/>
+<img width="100%" src="https://raw.githubusercontent.com/Gauravkale05/Gauravkale05/main/header-banner.svg" alt="header"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+BI+Developer;Python+%7C+SQL+%7C+Power+BI;Building+data-driven+solutions;Open+to+opportunities!)](https://git.io/typing-svg)
@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm a **Final-year B.Tech student** in **Artificial Intelligence & Data Science** at K.K. Wagh Institute of Engineering, Nashik. I turn raw, messy data into clear business insights — through dashboards, analysis pipelines, and machine learning models.
+I'm a **third-year B.Tech student** in **Artificial Intelligence & Data Science** at K.K. Wagh Institute of Engineering, Nashik. I turn raw, messy data into clear business insights — through dashboards, analysis pipelines, and machine learning models.
 
 - 🔭 Currently working on data analytics and BI projects
 - 🌱 Exploring GPU-accelerated AI and advanced ML workflows
@@ -84,9 +84,11 @@ I'm a **Final-year B.Tech student** in **Artificial Intelligence & Data Science*
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/Gauravkale05/Gauravkale05/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-<!--END_SECTION:waka-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gauravkale05/Gauravkale05/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gauravkale05/Gauravkale05/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Gauravkale05/Gauravkale05/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -102,6 +104,6 @@ I'm a **Final-year B.Tech student** in **Artificial Intelligence & Data Science*
 
 *"Data is not just numbers — it's the story waiting to be told."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6E56,100:1D9E75&height=100&section=footer" alt="footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/Gauravkale05/Gauravkale05/main/footer-banner.svg" alt="footer"/>
 
 </div>
